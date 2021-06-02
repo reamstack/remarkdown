@@ -5,12 +5,12 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 ## TAGL, AM
 
 * [jenny](https://www.youtube.com/c/JenniferTehraud/playlists) →  `remarkdown`
-* [Song of the Dodo Bird](https://icelandiconline.com/) on [Twitch](https://www.twitch.tv/reamstack)
+* [Song of the Dodo Bird](https://icelandiconline.com/) →  [Twitch](https://www.twitch.tv/reamstack)
 * Piano
 
 ## TAGL, PM 
 
-* [Deep End](https://coq.inria.fr/documentation) on [Twitch](https://www.twitch.tv/reamstack)
+* [Deep End](https://coq.inria.fr/documentation) | `taproot` | `scratch` | `examples` →  [Twitch](https://www.twitch.tv/reamstack)
 * Loomis et al
 
 ## WE
