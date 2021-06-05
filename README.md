@@ -10,7 +10,7 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## TAGL, PM 
 
-* [Deep End](https://coq.inria.fr/documentation) | `notes` | `fmbc` →  [Twitch](https://www.twitch.tv/reamstack)
+* [Deep End](https://coq.inria.fr/documentation) | `altcoins` | `fmbc` →  [Twitch](https://www.twitch.tv/reamstack)
 * Loomis et al
 
 ## WE
