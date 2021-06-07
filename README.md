@@ -10,12 +10,13 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## TAGL, PM 
 
-* [Deep End](https://coq.inria.fr/documentation) | `altcoins` | `fmbc` →  [Twitch](https://www.twitch.tv/reamstack)
+* [Deep End](https://coq.inria.fr/documentation) | `altcoins` | `fmbc` →  `zaproot` 
 * Loomis et al
 
 ## WE
 
 * blind chair plein air
+* DIALOGUE
 
 ## related (barely)
 
