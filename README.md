@@ -4,7 +4,7 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## TAGL, AM
 
-* [jenny](https://www.youtube.com/c/JenniferTehraud/playlists) | [Song of the Dodo Bird](https://icelandiconline.com/) →  `remarkdown`
+* [jenny](https://www.youtube.com/c/JenniferTehraud/playlists) | [IOL](https://icelandiconline.com/) →  `remarkdown`
 * Piano
 
 ## TAGL, PM 
