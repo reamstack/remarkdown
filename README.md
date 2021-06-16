@@ -19,6 +19,10 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## related (barely)
 
+*Towheaded children romp in tall grass, jubilant and free. Interstellar space marines launch daily. Every waking moment sparkles with meaning.*
+
+---
+
 *Dauphin Island*
 
 *Little River Canyon*
