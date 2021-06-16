@@ -4,13 +4,14 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## TAGL, AM
 
-* [jenny](https://www.youtube.com/c/JenniferTehraud/playlists) | [IOL](https://icelandiconline.com/) →  `remarkdown`
-* Piano
+* [jenny](https://www.youtube.com/c/JenniferTehraud/playlists)  →  `remarkdown`
+* [IOL](https://icelandiconline.com/) →  `dodobird`
+* Loomis | Gurney | Vandruff
 
 ## TAGL, PM 
 
 * [Deep End](https://coq.inria.fr/documentation) | `altcoins` | `fmbc` →  `zaproot` 
-* Loomis et al
+* Piano
 
 ## WE
 
