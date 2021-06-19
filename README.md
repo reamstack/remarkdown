@@ -10,7 +10,7 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## TAGL, PM 
 
-* [Deep End](https://coq.inria.fr/documentation) | `altcoins` | `fmbc` →  `zaproot` 
+* [Deep End](https://coq.inria.fr/documentation) | `aux` | `lightning` | `taproot` →  `zaproot` 
 * Piano
 
 ## WE
