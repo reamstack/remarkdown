@@ -4,8 +4,6 @@ notes on language from [here](https://www.youtube.com/c/JenniferTehraud/playlist
 
 ## TAGL, AM
 
-* [jenny](https://www.youtube.com/c/JenniferTehraud/playlists)  →  `jenny`
-* [IOL](https://icelandiconline.com/) →  `dodobird`
 * (Loomis | Gurney | Vandruff →  DA) × 2HR
     - City Seals
     - Norse Pantheon
