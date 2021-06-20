@@ -4,7 +4,7 @@ notes on narrative from [here](https://www.youtube.com/c/JenniferTehraud/playlis
 
 ## TAGL, AM
 
-* (Loomis | Gurney | Vandruff →  DA) × 2HR
+* Loomis | Gurney | Vandruff →  DA
     - City Seals
     - Norse Pantheon
     - Hyperborean Sprawl
@@ -12,7 +12,7 @@ notes on narrative from [here](https://www.youtube.com/c/JenniferTehraud/playlis
 ## TAGL, PM 
 
 * [Deep End](https://coq.inria.fr/documentation) | `aux` | `lightning` | `taproot` →  `zaproot` 
-* (Loomis | Gurney | Vandruff →  DA) × 2HR
+* Loomis | Gurney | Vandruff →  DA
     - City Seals
     - Norse Pantheon
     - Hyperborean Sprawl
