@@ -30,6 +30,28 @@
 
 ---
 
+**Salviati**: *(noticing Simplicio noticing)* I see her. Very pretty girl. You gonna talk to her?
+
+**Simplicio**: *(lying)* Her? Sure, she's pretty. But that's just superficial. It's what's inside that counts.
+
+**Salviati**: Superficial, OK. But everything shallow is deep.
+
+**Simplicio**: That's nonsense. What does that even mean?
+
+**Salviati**: Well, what do you suppose her mother looks like?
+
+**Simplicio**: Like her. Pretty. So what?
+
+**Salviati**: And what sort of man would approach such a woman?
+
+**Simplicio**: *(stunned silence)*
+
+**Sagredo**: *(laughing)* You're a dork, Simplicio!
+
+---
+
+***Norse Pantheon***
+
 *Loki's Queen*
 
 *Odin's Eye*
@@ -38,7 +60,7 @@
 
 *Freyja*
 
-*Halfdan*
+*Halfdan* ← (idea needs work)
 
 ---
 
@@ -49,6 +71,8 @@
 *Mooley*
 
 ---
+
+***City Seals, etc***
 
 The circus is in town, spun up on a bright bed of golden straw behind the bars and restaurants of the harbor. Driving past on the 1 one can see the big tent and imagine its elephants inside. They are happy elephants notwithstanding what Betsy said, that poor thing. There are peanuts and popcorn and cotton candy, all hot on account of the Sun and the machines used to prepare them. Towheaded children romp in the straw. At least three of them are his.
 
