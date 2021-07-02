@@ -4,7 +4,7 @@ notes on narrative from [here](https://www.youtube.com/c/JenniferTehraud/playlis
 
 ## TAGL, AM
 
-* `jenny` | `dodobird` 
+* `remarkdown`
 * Loomis | Gurney | Vandruff →  DA
     - City Seals
     - Norse Pantheon
