@@ -1,6 +1,6 @@
 # remarkdown 
 
-notes on narrative from [here](https://www.youtube.com/c/JenniferTehraud/playlists) and [there](https://icelandiconline.com/)
+notes on language, narrative and aesthetics
 
 ## TAGL, AM
 
