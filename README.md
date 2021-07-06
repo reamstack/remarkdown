@@ -4,7 +4,6 @@ notes on language, narrative and aesthetics
 
 ## TAGL, AM
 
-* `remarkdown`
 * Loomis | Gurney | Vandruff →  DA
     - City Seals
     - Norse Pantheon
@@ -12,7 +11,6 @@ notes on language, narrative and aesthetics
 
 ## TAGL, PM 
 
-* Piano
 * Loomis | Gurney | Vandruff →  DA
     - City Seals
     - Norse Pantheon
