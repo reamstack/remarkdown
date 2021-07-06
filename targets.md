@@ -1,18 +1,24 @@
 
-# who wants it
+# what & where
 
-    * skateboards (baked in | stickers)
-    * surfboards (baked in | stickers)
-    * phone cases (baked in) 
-    * walls (interior)
-        - mural
-        - decal
-    * walls (exterior)
-        - mural
-        - stencil
-    * books
-        - children
-        - whoever likes *Dinotopia* 
-    * prints
-    * originals
+* breweries
+    - branding
+    - labels
+* wineries
+    - branding
+    - labels
+* skateboards (baked in | stickers)
+* surfboards (baked in | stickers)
+* phone cases (baked in) 
+* walls (interior)
+    - mural
+    - decal
+* walls (exterior)
+    - mural
+    - stencil
+* books
+    - children
+    - whoever likes *Dinotopia* 
+* prints
+* originals
 
