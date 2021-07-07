@@ -1,4 +1,4 @@
-# remarkdown 
+# text
 
 notes on language, narrative and aesthetics
 
