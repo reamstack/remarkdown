@@ -1,29 +1,28 @@
 
 # what & where
 
-* breweries
-    - branding
-    - labels
-* wineries
-    - branding
-    - labels
-* gift shops
-    - tourist traps
+* prints
+* insignia
+    - towns
     - museums
     - aquariums
     - zoos
     - parks (natural)
-* skateboards (baked in | stickers)
-* surfboards (baked in | stickers)
-* phone cases (baked in) 
+* street caricature
+* books
+    - children
+    - whoever likes *Dinotopia* 
 * walls (interior)
     - mural
     - decal
 * walls (exterior)
     - mural
     - stencil
-* books
-    - children
-    - whoever likes *Dinotopia* 
-* prints
-
+* breweries
+    - branding
+    - labels
+* wineries
+    - branding
+    - labels
+* skateboards (baked in) 
+* surfboards (baked in)
