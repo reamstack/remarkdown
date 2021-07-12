@@ -141,7 +141,7 @@ The Fourth of July parade in Half Moon Bay and the feeling that I am part of som
 
 ---
 
-***HyperboreanSprawl***
+**Hyperborean Sprawl**
 
 *Ascension*
 
