@@ -6,6 +6,7 @@ notes on language, narrative and aesthetics
 
 * Loomis | Gurney | Vandruff →  DA
     - City Seals
+    - Grimms
     - Norse Pantheon
     - Hyperborean Sprawl
 
@@ -13,6 +14,6 @@ notes on language, narrative and aesthetics
 
 * Loomis | Gurney | Vandruff →  DA
     - City Seals
+    - Grimms
     - Norse Pantheon
     - Hyperborean Sprawl
-
