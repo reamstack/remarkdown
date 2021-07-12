@@ -133,6 +133,14 @@ The Fourth of July parade in Half Moon Bay and the feeling that I am part of som
 
 ---
 
+**First Series**
+
+* *It's OK to Be [REDACTED]*
+* *Yes Means Yes*
+* *Chad & Stacey Find Logos*
+
+---
+
 ***HyperboreanSprawl***
 
 *Ascension*
@@ -140,3 +148,7 @@ The Fourth of July parade in Half Moon Bay and the feeling that I am part of som
 *Conquest*
 
 *Awakening*
+
+
+
+
